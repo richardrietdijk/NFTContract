@@ -13,3 +13,12 @@ node_modules
 # Ignore SASS config files
 .sass-cache
 
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
